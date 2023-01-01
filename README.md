@@ -1,5 +1,5 @@
 
-Deployed Link -> https://movie-app-chinmay.netlify.app/
+Deployed Link -> https://movie-app-warisamir-vercel.com/
 
 ##Screenshots home page ---
 
